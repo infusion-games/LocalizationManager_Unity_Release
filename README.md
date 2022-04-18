@@ -1,0 +1,1 @@
+# LocalizationManager_Unity_Release
